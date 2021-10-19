@@ -1,9 +1,13 @@
 # LSDE_TextCNN
 TextCNN to classify covid related text
 
-W2V 词向量模型 gensim.word2vec 训练
+W2V:
 
-model.h5 TextCNN模型 keras-tensorflow2.6.0 训练
+词向量模型 gensim.word2vec 训练
+
+model.h5:
+
+TextCNN模型 keras-tensorflow2.6.0 训练
 
 Environment:
 
